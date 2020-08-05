@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\IpcManagedAPI\bin\Debug\IpcManagedAPI.dll
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\IpcManagedAPI\bin\Debug\IpcManagedAPI.pdb
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\IpcManagedAPI\obj\Debug\IpcManagedAPI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\IpcManagedAPI\obj\Debug\IpcManagedAPI.dll
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\IpcManagedAPI\obj\Debug\IpcManagedAPI.pdb
+C:\Users\Administrator\Desktop\RMS_project\IpcManagedAPI\bin\Debug\IpcManagedAPI.dll
+C:\Users\Administrator\Desktop\RMS_project\IpcManagedAPI\bin\Debug\IpcManagedAPI.pdb
+C:\Users\Administrator\Desktop\RMS_project\IpcManagedAPI\obj\Debug\IpcManagedAPI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RMS_project\IpcManagedAPI\obj\Debug\IpcManagedAPI.dll
+C:\Users\Administrator\Desktop\RMS_project\IpcManagedAPI\obj\Debug\IpcManagedAPI.pdb

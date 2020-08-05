@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\bin\Release\Adalfileencrypt.exe.config
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\bin\Release\Adalfileencrypt.exe
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\bin\Release\Adalfileencrypt.pdb
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\bin\Release\IpcManagedAPI.dll
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\bin\Release\IpcManagedAPI.pdb
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\obj\Release\FormFileEncrypt.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\obj\Release\FormFileEncrypt.FormFileEncrypt.resources
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\obj\Release\Adalfileencrypt.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\obj\Release\FormFileEncrypt.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\obj\Release\Adalfileencrypt.exe
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\obj\Release\Adalfileencrypt.pdb
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\bin\Release\Adalfileencrypt.exe.manifest
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\bin\Release\Adalfileencrypt.application
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\obj\Release\Adalfileencrypt.exe.manifest
+C:\Users\Administrator\Desktop\Azure-Information-Protection-Samples-master\FormFileEncrypt\FormFileEncrypt\obj\Release\Adalfileencrypt.application
